@@ -1,6 +1,6 @@
 # Open it
 
-[Index](index.html)
+[Index](https://okko.github.io/goatetti/)
 
 # Credits 
 
